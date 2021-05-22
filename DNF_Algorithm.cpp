@@ -77,7 +77,7 @@ void DNF :: display(){
 int main(){
     system("cls");
     cout<<"\tWelcome to the DNF Sort"<<endl;
-    cout<<"Enter the size of the Array"<<endl;
+    cout<<"Enter the size of the Array ==>>"<<endl;
     int size,opt;
     cin>>size;
     DNF d(size);
